@@ -1582,7 +1582,7 @@ function CheckQuest()
 			NameMon = "kissed";
 			CFrameQuest = CFrame.new( -16540, 56, 1051);
 			CFrameMon = CFrame.new( -16345, 80, 1004);
-		elseif ((MyLevel == 2525) or (MyLevel <= 2650)) then
+		elseif ((MyLevel == 2575) or (MyLevel <= 2650)) then
 			Mon = "Isle Champion";
 			LevelQuest = 2;
 			NameQuest = "TikiQuest2";
